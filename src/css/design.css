@@ -1,0 +1,15 @@
+i{
+    cursor:pointer;
+}
+
+.important{
+    background-color: lightblue;
+}
+
+.VeryImportant{
+background-color: lightsalmon;
+}
+
+.light{
+    background-color: lightgreen;
+}
